@@ -1,0 +1,13 @@
+Specification,Value
+Operating System,Linux-6.8.0-1070-azure-x86_64-with-glibc2.39
+Processor,x86_64
+CPU Architecture,x86_64
+Physical CPU Cores,1
+Logical CPU Cores,2
+Available Logical CPUs,2
+System RAM (GB),7.76
+Python Version,3.14.2
+Scikit-learn Version,1.9.1
+PyTorch Version,2.15.0+cu132
+PyTorch Threads,1
+Inference Device,CPU

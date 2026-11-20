@@ -1,0 +1,6 @@
+Comparison,Value
+MLP single-sample speedup over RF,45.50960259013983
+MLP batch speedup over RF,7.271616768294886
+MLP batch speedup over KNN,641.9279167988425
+MLP model size reduction compared to RF (%),98.89166034786456
+RF and MLP accuracy difference (percentage points),1.8001800180018108
